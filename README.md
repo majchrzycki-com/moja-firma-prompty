@@ -11,7 +11,7 @@ Skill nie jest zwykłą listą promptów. Gdy piszesz na przykład „przygotuj 
 
 Niczego nie wysyła i nie zmienia rekordów. Decyzję zostawia człowiekowi.
 
-> Wersja 0.1. Prompty pochodzą z serii wpisów na [majchrzycki.com](https://majchrzycki.com/blog/filar/ai-w-codziennej-pracy?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty). Pisano je pod Microsoft 365 Copilot. W innych narzędziach nie były testowane, więc sprawdź wynik na swoich materiałach. Wynik testu dziesięciu skilli w Anthropic Claude: [TESTY.md](TESTY.md).
+> Wersja 0.1. Prompty pochodzą z serii wpisów na [majchrzycki.com](https://majchrzycki.com/blog/filar/ai-w-codziennej-pracy?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty). Pisano je pod Microsoft 365 Copilot. W innych narzędziach nie były testowane, więc sprawdź wynik na swoich materiałach. Wynik testu wszystkich 51 skilli w Anthropic Claude: [TESTY.md](TESTY.md).
 
 ## Stanowiska
 
