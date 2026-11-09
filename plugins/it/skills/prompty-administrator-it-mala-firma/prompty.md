@@ -1,6 +1,6 @@
 # Biblioteka promptów: Administrator IT w małej firmie
 
-Źródło: [„30 promptów Copilot dla administratora IT”](https://majchrzycki.com/blog/microsoft-copilot-23-praktyczne-prompty-dla-administratora-i-specjalisty-it-w-malej-firmie?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-administrator-it-mala-firma), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-10-02. Licencja MIT.
+Źródło: [„30 promptów Copilot dla administratora IT”](https://majchrzycki.com/blog/microsoft-copilot-23-praktyczne-prompty-dla-administratora-i-specjalisty-it-w-malej-firmie?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-administrator-it-mala-firma), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-11-11. Licencja MIT.
 
 Prompty pisano pod Microsoft 365 Copilot. W innych narzędziach działają prompty z grupy „Dowolny czat”, a pozostałe wymagają załączenia pliku albo pracy etapami.
 
@@ -152,9 +152,9 @@ Narzędzia: Microsoft 365 Copilot Cowork, Anthropic Claude Cowork, tryb agenta O
 
 > Na podstawie [zatwierdzonych plików z datą i wersją] wykonaj kolejno etap 1 — mfa: Przygotuj plan wdrożenia MFA z wyjątkami awaryjnymi i komunikacją.  Etap 2 — dostęp warunkowy: Zaproponuj politykę w trybie raportowania oraz plan analizy skutków. Przygotuj materiał do przeglądu wraz z dowodami i punktami spornymi. Wynik oddaj do [osoby zatwierdzającej] przed wysyłką lub zmianą danych.
 
-### 10. Inwentaryzacja urządzeń i ocena stanu urządzeń
+### 10. Komunikat o awarii dla pracowników
 
-> Na podstawie [zatwierdzonych plików z datą i wersją] wykonaj kolejno etap 1 — inwentaryzacja urządzeń: Zaprojektuj tabelę braków w danych o urządzeniach i właścicielach. Etap 2 — ocena stanu urządzeń: Zbuduj kryteria priorytetu aktualizacji bez zgadywania stanu sprzętu. Przygotuj roboczy dokument, listę wyjątków i kryteria odbioru. Wynik oddaj do [osoby zatwierdzającej] przed wysyłką lub zmianą danych.
+> Na podstawie [opisu awarii, komunikatów dostawcy i listy usług, których dotyczy] wykonaj kolejno etap 1: ustal, co nie działa, kogo to dotyczy i co już wiadomo na pewno. Etap 2: przygotuj krótki komunikat dla pracowników z obejściem na czas awarii i godziną następnej informacji. Etap 3: przygotuj komunikat o przywróceniu działania z prośbą o zgłoszenie dalszych problemów. Nie podawaj godziny naprawy, jeśli nie potwierdził jej dostawca, i nie zgaduj przyczyny. Wynik oddaj do [osoby zatwierdzającej komunikaty] przed wysyłką.
 
 ## Zasady pracy w tej roli (z wpisu)
 

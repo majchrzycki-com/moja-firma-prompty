@@ -1,6 +1,6 @@
 # Biblioteka promptów: Dyrektor danych (CDO)
 
-Źródło: [„Microsoft Copilot dla CDO: 30 promptów o danych i decyzjach”](https://majchrzycki.com/blog/zarzadzanie-z-microsoft-copilot-praktyczne-prompty-dla-dyrektora-danych-cdo-chief-data-officer?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-cdo), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-10-02. Licencja MIT.
+Źródło: [„Microsoft Copilot dla CDO: 30 promptów o danych i decyzjach”](https://majchrzycki.com/blog/zarzadzanie-z-microsoft-copilot-praktyczne-prompty-dla-dyrektora-danych-cdo-chief-data-officer?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-cdo), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-11-11. Licencja MIT.
 
 Prompty pisano pod Microsoft 365 Copilot. W innych narzędziach działają prompty z grupy „Dowolny czat”, a pozostałe wymagają załączenia pliku albo pracy etapami.
 

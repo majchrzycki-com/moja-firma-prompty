@@ -1,6 +1,6 @@
 # Biblioteka promptów: Projektant UX/UI
 
-Źródło: [„Microsoft Copilot: 30 promptów dla projektantów UX/UI”](https://majchrzycki.com/blog/microsoft-copilot-praktyczne-prompty-dla-projektantow-ux-ui?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-ux-ui), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-10-02. Licencja MIT.
+Źródło: [„Microsoft Copilot: 30 promptów dla projektantów UX/UI”](https://majchrzycki.com/blog/microsoft-copilot-praktyczne-prompty-dla-projektantow-ux-ui?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-ux-ui), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-11-11. Licencja MIT.
 
 Prompty pisano pod Microsoft 365 Copilot. W innych narzędziach działają prompty z grupy „Dowolny czat”, a pozostałe wymagają załączenia pliku albo pracy etapami.
 
@@ -268,13 +268,13 @@ Narzędzia: Microsoft 365 Copilot Cowork, Anthropic Claude Cowork, tryb agenta O
 
 **Sprawdź:** Sprawdź ustawienie ograniczonego ruchu i sytuację, w której animacja nie zostanie odtworzona; Przeprowadź test klawiatury, fokusu i nazw kontrolek w działającym interfejsie.
 
-### 10. Układ strony produktowej i brief ilustracji
+### 10. Synteza opinii z testu użyteczności
 
-**Wejście:** Treści, priorytety decyzji klienta i ograniczenia urządzeń; cel komunikatu, wartości marki i miejsce użycia grafiki.
+**Wejście:** Notatki lub transkrypcje z sesji testu, scenariusze zadań i lista uczestników bez danych osobowych.
 
-> Na podstawie [zatwierdzonych plików z datą i wersją] wykonaj kolejno etap 1 — układ strony produktowej: Zaproponuj dwa układy z kolejnością informacji na małym ekranie. Wskaż miejsce wariantów produktu i warunków zakupu. Etap 2 — brief ilustracji: Przygotuj koncepcje ilustracji wspierających sens tekstu. Wskaż, które są dekoracyjne, a które niosą informację. Przygotuj roboczy dokument, listę wyjątków i kryteria odbioru. Wynik oddaj do [osoby zatwierdzającej] przed wysyłką lub zmianą danych.
+> Na podstawie [notatek z testu użyteczności z datą i numerami sesji] wykonaj kolejno etap 1: ponumeruj wypowiedzi i obserwacje, oddziel to, co uczestnik zrobił, od tego, co powiedział. Etap 2: pogrupuj problemy według zadań i podaj, ilu uczestników je napotkało. Każdy wniosek oprzyj na numerach wypowiedzi. Etap 3: oddziel problemy użyteczności od próśb o nowe funkcje i zaproponuj, co sprawdzić w kolejnej rundzie. Nie uogólniaj na wszystkich użytkowników i nie dopisuj przyczyn, których nikt nie wskazał. Wynik oddaj do [osoby zatwierdzającej] przed decyzją o zmianach.
 
-**Sprawdź:** Sprawdź długie nazwy, duże powiększenie tekstu i produkt niedostępny; Nie umieszczaj kluczowych instrukcji wyłącznie w obrazie; sprawdź potrzebę tekstu alternatywnego.
+**Sprawdź:** Sprawdź, czy każdy wniosek ma numer wypowiedzi; porównaj liczbę uczestników przy problemie z notatkami.
 
 ## Zasady pracy w tej roli (z wpisu)
 

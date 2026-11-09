@@ -1,6 +1,6 @@
 ---
 name: prompty-administrator-it-mala-firma
-description: "Biblioteka 30 promptów dla administratora i specjalisty IT w małej firmie ze sposobem sprawdzenia wyniku. Dobiera prompt do zadania, prosi o brakujące dane i kończy kontrolą odpowiedzi; decyzję zostawia człowiekowi. Zadania: diagnoza incydentu, analiza logów, skrypt PowerShell, przegląd skryptu, plan aktualizacji, kopia zapasowa, test odtworzenia, przegląd uprawnień, onboarding konta, offboarding konta, mFA, dostęp warunkowy, inwentaryzacja urządzeń, ocena stanu urządzeń, wi-Fi, dNS, vPN, poczta, reakcja na phishing, runbook awarii, dokumentacja zmiany, ocena vendora, raport miesięczny, diagnoza incydentu i analiza logów, skrypt powershell i przegląd skryptu, plan aktualizacji i kopia zapasowa, test odtworzenia i przegląd uprawnień, onboarding konta i offboarding konta, mfa i dostęp warunkowy, inwentaryzacja urządzeń i ocena stanu urządzeń. Użyj, gdy administrator IT w małej firmie chce wykonać takie zadanie z pomocą AI albo prosi o prompt do swojej pracy."
+description: "Biblioteka 30 promptów dla administratora i specjalisty IT w małej firmie ze sposobem sprawdzenia wyniku. Dobiera prompt do zadania, prosi o brakujące dane i kończy kontrolą odpowiedzi; decyzję zostawia człowiekowi. Zadania: diagnoza incydentu, analiza logów, skrypt PowerShell, przegląd skryptu, plan aktualizacji, kopia zapasowa, test odtworzenia, przegląd uprawnień, onboarding konta, offboarding konta, mFA, dostęp warunkowy, inwentaryzacja urządzeń, ocena stanu urządzeń, wi-Fi, dNS, vPN, poczta, reakcja na phishing, runbook awarii, dokumentacja zmiany, ocena vendora, raport miesięczny, diagnoza incydentu i analiza logów, skrypt powershell i przegląd skryptu, plan aktualizacji i kopia zapasowa, test odtworzenia i przegląd uprawnień, onboarding konta i offboarding konta, mfa i dostęp warunkowy, komunikat o awarii dla pracowników. Użyj, gdy administrator IT w małej firmie chce wykonać takie zadanie z pomocą AI albo prosi o prompt do swojej pracy."
 license: MIT
 metadata:
   autor: Krzysztof Majchrzycki
@@ -78,4 +78,4 @@ Cel (jaka praca ma powstać), kontekst (kto użyje wyniku i do jakiej decyzji), 
 - Test odtworzenia i przegląd uprawnień
 - Onboarding konta i offboarding konta
 - Mfa i dostęp warunkowy
-- Inwentaryzacja urządzeń i ocena stanu urządzeń
+- Komunikat o awarii dla pracowników

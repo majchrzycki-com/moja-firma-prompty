@@ -1,6 +1,6 @@
 # Biblioteka promptów: Dyrektor sprzedaży
 
-Źródło: [„Microsoft Copilot dla dyrektora sprzedaży: 30 promptów”](https://majchrzycki.com/blog/zarzadzanie-z-microsoft-copilot-praktyczne-prompty-dla-dyrektora-sprzedazy-sales-director?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-dyrektor-sprzedazy), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-10-02. Licencja MIT.
+Źródło: [„Microsoft Copilot dla dyrektora sprzedaży: 30 promptów”](https://majchrzycki.com/blog/zarzadzanie-z-microsoft-copilot-praktyczne-prompty-dla-dyrektora-sprzedazy-sales-director?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-dyrektor-sprzedazy), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-11-11. Licencja MIT.
 
 Prompty pisano pod Microsoft 365 Copilot. W innych narzędziach działają prompty z grupy „Dowolny czat”, a pozostałe wymagają załączenia pliku albo pracy etapami.
 

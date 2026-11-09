@@ -1,6 +1,6 @@
 # Biblioteka promptów: Dyrektor HR (CHRO)
 
-Źródło: [„Microsoft Copilot: 30 promptów dla CHRO”](https://majchrzycki.com/blog/zarzadzanie-z-microsoft-copilot-praktyczne-prompty-dla-dyrektora-hr-chro-chief-human-resources-officer?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-chro), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-10-02. Licencja MIT.
+Źródło: [„Microsoft Copilot: 30 promptów dla CHRO”](https://majchrzycki.com/blog/zarzadzanie-z-microsoft-copilot-praktyczne-prompty-dla-dyrektora-hr-chro-chief-human-resources-officer?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-chro), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-11-11. Licencja MIT.
 
 Prompty pisano pod Microsoft 365 Copilot. W innych narzędziach działają prompty z grupy „Dowolny czat”, a pozostałe wymagają załączenia pliku albo pracy etapami.
 

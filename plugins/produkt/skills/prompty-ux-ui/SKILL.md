@@ -78,4 +78,4 @@ Cel (jaka praca ma powstać), kontekst (kto użyje wyniku i do jakiej decyzji), 
 - Porównanie konkurencyjnych interfejsów i informacja po dodaniu do koszyka
 - Scenariusze użycia i formularz rejestracji
 - Ruch w interfejsie i plan oceny dostępności
-- Układ strony produktowej i brief ilustracji
+- Synteza opinii z testu użyteczności

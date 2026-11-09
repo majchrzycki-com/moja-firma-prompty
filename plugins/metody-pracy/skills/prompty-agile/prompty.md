@@ -1,6 +1,6 @@
 # Biblioteka promptów: Zespół Agile
 
-Źródło: [„Copilot w Agile: 30 promptów wspierających adaptację”](https://majchrzycki.com/blog/microsoft-copilot-i-podejscie-agile-praktyczne-prompty-dla-zespolu-i-managerow?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-agile), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-10-02. Licencja MIT.
+Źródło: [„Copilot w Agile: 30 promptów wspierających adaptację”](https://majchrzycki.com/blog/microsoft-copilot-i-podejscie-agile-praktyczne-prompty-dla-zespolu-i-managerow?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-agile), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-11-11. Licencja MIT.
 
 Prompty pisano pod Microsoft 365 Copilot. W innych narzędziach działają prompty z grupy „Dowolny czat”, a pozostałe wymagają załączenia pliku albo pracy etapami.
 

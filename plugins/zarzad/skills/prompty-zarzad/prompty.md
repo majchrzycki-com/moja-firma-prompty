@@ -1,6 +1,6 @@
 # Biblioteka promptów: Członek zarządu
 
-Źródło: [„30 promptów Copilot dla zarządu: analiza wariantów”](https://majchrzycki.com/blog/microsoft-copilot-praktyczne-prompty-dla-czlonkow-zarzadu?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-zarzad), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-10-02. Licencja MIT.
+Źródło: [„30 promptów Copilot dla zarządu: analiza wariantów”](https://majchrzycki.com/blog/microsoft-copilot-praktyczne-prompty-dla-czlonkow-zarzadu?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-zarzad), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-11-11. Licencja MIT.
 
 Prompty pisano pod Microsoft 365 Copilot. W innych narzędziach działają prompty z grupy „Dowolny czat”, a pozostałe wymagają załączenia pliku albo pracy etapami.
 

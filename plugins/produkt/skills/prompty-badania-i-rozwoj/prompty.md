@@ -1,6 +1,6 @@
 # Biblioteka promptów: Specjalista badań i rozwoju
 
-Źródło: [„Microsoft Copilot: 30 promptów dla działu R&D”](https://majchrzycki.com/blog/microsoft-copilot-praktyczne-prompty-dla-specjalistow-badan-i-rozwoju?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-badania-i-rozwoj), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-10-02. Licencja MIT.
+Źródło: [„Microsoft Copilot: 30 promptów dla działu R&D”](https://majchrzycki.com/blog/microsoft-copilot-praktyczne-prompty-dla-specjalistow-badan-i-rozwoju?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-badania-i-rozwoj), Krzysztof Majchrzycki, majchrzycki.com. Stan wpisu: 2026-11-11. Licencja MIT.
 
 Prompty pisano pod Microsoft 365 Copilot. W innych narzędziach działają prompty z grupy „Dowolny czat”, a pozostałe wymagają załączenia pliku albo pracy etapami.
 

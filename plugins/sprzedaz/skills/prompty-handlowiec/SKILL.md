@@ -1,6 +1,6 @@
 ---
 name: prompty-handlowiec
-description: "Biblioteka 30 promptów dla handlowców ze sposobem sprawdzenia wyniku. Dobiera prompt do zadania, prosi o brakujące dane i kończy kontrolą odpowiedzi; decyzję zostawia człowiekowi. Zadania: przygotowanie konta, agenda spotkania, pytania discovery, mapa interesariuszy, notatka ze spotkania, follow-up, aktualizacja CRM, kwalifikacja szansy, następny krok, obiekcje, odpowiedź na obiekcję, warianty oferty, tCO klienta, case study, demo, rFP, porównanie konkurencji, rabaty, ryzyko umowy, prognoza, review pipeline, przekazanie do delivery, retrospektywa, przygotowanie konta i agenda spotkania, pytania discovery i mapa interesariuszy, notatka ze spotkania i follow-up, aktualizacja CRM i kwalifikacja szansy, następny krok i obiekcje, odpowiedź na obiekcję i warianty oferty, tCO klienta i case study. Użyj, gdy handlowiec chce wykonać takie zadanie z pomocą AI albo prosi o prompt do swojej pracy."
+description: "Biblioteka 30 promptów dla handlowców ze sposobem sprawdzenia wyniku. Dobiera prompt do zadania, prosi o brakujące dane i kończy kontrolą odpowiedzi; decyzję zostawia człowiekowi. Zadania: przygotowanie konta, agenda spotkania, pytania discovery, mapa interesariuszy, notatka ze spotkania, follow-up, aktualizacja CRM, kwalifikacja szansy, następny krok, obiekcje, odpowiedź na obiekcję, warianty oferty, tCO klienta, case study, demo, rFP, porównanie konkurencji, rabaty, ryzyko umowy, prognoza, review pipeline, przekazanie do delivery, retrospektywa, przygotowanie konta i agenda spotkania, pytania discovery i mapa interesariuszy, notatka ze spotkania i follow-up, aktualizacja CRM i kwalifikacja szansy, następny krok i obiekcje, odpowiedź na obiekcję i warianty oferty, odpowiedź na zapytanie ofertowe. Użyj, gdy handlowiec chce wykonać takie zadanie z pomocą AI albo prosi o prompt do swojej pracy."
 license: MIT
 metadata:
   autor: Krzysztof Majchrzycki
@@ -78,4 +78,4 @@ Cel (jaka praca ma powstać), kontekst (kto użyje wyniku i do jakiej decyzji), 
 - Aktualizacja CRM i kwalifikacja szansy
 - Następny krok i obiekcje
 - Odpowiedź na obiekcję i warianty oferty
-- TCO klienta i case study
+- Odpowiedź na zapytanie ofertowe
