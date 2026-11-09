@@ -1,0 +1,19 @@
+{
+  "name": "prawo",
+  "version": "0.1.0",
+  "description": "Dział prawny: Prompty dla prawników, ze sprawdzaniem źródeł. Pomoc w pracy, nie porada prawna. Każdy skill dobiera prompt do zadania, prosi o brakujące dane i kończy kontrolą wyniku.",
+  "author": {
+    "name": "Krzysztof Majchrzycki",
+    "url": "https://majchrzycki.com"
+  },
+  "homepage": "https://majchrzycki.com/blog/filar/ai-w-codziennej-pracy",
+  "repository": "https://github.com/majchrzycki-com/moja-firma-prompty",
+  "license": "MIT",
+  "keywords": [
+    "prompty",
+    "agent-skills",
+    "skill-md",
+    "prawo",
+    "polska"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "moja-firma-prompty",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Prompty dla działów i stanowisk polskiej firmy jako skille (Agent Skills, SKILL.md).",
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/build.mjs --check"
+  },
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}

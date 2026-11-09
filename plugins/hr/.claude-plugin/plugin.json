@@ -1,0 +1,19 @@
+{
+  "name": "hr",
+  "version": "0.1.0",
+  "description": "Kadry: Prompty dla dyrektora HR i specjalistów HR. Każdy skill dobiera prompt do zadania, prosi o brakujące dane i kończy kontrolą wyniku.",
+  "author": {
+    "name": "Krzysztof Majchrzycki",
+    "url": "https://majchrzycki.com"
+  },
+  "homepage": "https://majchrzycki.com/blog/filar/ai-w-codziennej-pracy",
+  "repository": "https://github.com/majchrzycki-com/moja-firma-prompty",
+  "license": "MIT",
+  "keywords": [
+    "prompty",
+    "agent-skills",
+    "skill-md",
+    "hr",
+    "polska"
+  ]
+}

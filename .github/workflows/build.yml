@@ -1,0 +1,39 @@
+name: build
+
+on:
+  push:
+    branches: [main]
+    tags: ["v*"]
+  pull_request:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Kontrola skilli
+        run: node scripts/build.mjs --check
+      - name: Budowanie paczek
+        run: node scripts/build.mjs
+      - name: Paczki do wydania
+        if: startsWith(github.ref, 'refs/tags/v')
+        run: |
+          cd dist
+          zip -r ../moja-firma-prompty-wszystkie-${GITHUB_REF_NAME}.zip skills
+          zip -r ../moja-firma-prompty-instrukcje-${GITHUB_REF_NAME}.zip instrukcje
+          cp ../dane/prompty.csv ../moja-firma-prompty-${GITHUB_REF_NAME}.csv
+          cd dzialy
+          for d in */; do zip -r "../../moja-firma-prompty-dzial-${d%/}-${GITHUB_REF_NAME}.zip" "$d"; done
+          cd ../skills
+          for s in */; do zip -r "../../moja-firma-prompty-${s%/}-${GITHUB_REF_NAME}.zip" "$s"; done
+      - name: Wydanie
+        if: startsWith(github.ref, 'refs/tags/v')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "$GITHUB_REF_NAME" moja-firma-prompty-*.zip moja-firma-prompty-*.csv --title "moja-firma-prompty $GITHUB_REF_NAME" --notes-file CHANGELOG.md

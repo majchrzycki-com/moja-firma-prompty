@@ -1,0 +1,83 @@
+{
+  "name": "moja-firma-prompty",
+  "owner": {
+    "name": "Krzysztof Majchrzycki",
+    "url": "https://majchrzycki.com"
+  },
+  "metadata": {
+    "description": "Prompty dla działów i stanowisk polskiej firmy jako skille (Agent Skills, SKILL.md), po jednym pluginie na dział.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "zarzad",
+      "source": "./plugins/zarzad",
+      "description": "Zarząd i przywództwo. Prompty dla zarządu, prezesa, dyrektorów operacyjnych, wzrostu, innowacji i ESG oraz liderów i menedżerów.",
+      "version": "0.1.0",
+      "category": "productivity"
+    },
+    {
+      "name": "finanse",
+      "source": "./plugins/finanse",
+      "description": "Finanse i księgowość. Prompty dla dyrektora finansowego, finansistów, księgowych i relacji inwestorskich.",
+      "version": "0.1.0",
+      "category": "productivity"
+    },
+    {
+      "name": "sprzedaz",
+      "source": "./plugins/sprzedaz",
+      "description": "Sprzedaż i obsługa klienta. Prompty dla dyrektora sprzedaży, dyrektora przychodów, handlowców i obsługi klienta.",
+      "version": "0.1.0",
+      "category": "productivity"
+    },
+    {
+      "name": "marketing",
+      "source": "./plugins/marketing",
+      "description": "Marketing, e-commerce i komunikacja. Prompty dla dyrektora marketingu, dyrektora kreatywnego, zespołu marketingu, e-commerce i komunikacji wewnętrznej.",
+      "version": "0.1.0",
+      "category": "productivity"
+    },
+    {
+      "name": "it",
+      "source": "./plugins/it",
+      "description": "IT, dane i bezpieczeństwo. Prompty dla dyrektorów IT, technologii, danych i bezpieczeństwa, administratorów i specjalistów IT.",
+      "version": "0.1.0",
+      "category": "productivity"
+    },
+    {
+      "name": "hr",
+      "source": "./plugins/hr",
+      "description": "Kadry. Prompty dla dyrektora HR i specjalistów HR.",
+      "version": "0.1.0",
+      "category": "productivity"
+    },
+    {
+      "name": "operacje",
+      "source": "./plugins/operacje",
+      "description": "Operacje. Prompty dla produkcji, logistyki, zakupów, działu jakości, zarządcy obiektu i administracji.",
+      "version": "0.1.0",
+      "category": "productivity"
+    },
+    {
+      "name": "produkt",
+      "source": "./plugins/produkt",
+      "description": "Produkt i rozwój. Prompty dla dyrektora produktu, działu badań i rozwoju oraz projektantów UX/UI.",
+      "version": "0.1.0",
+      "category": "productivity"
+    },
+    {
+      "name": "prawo",
+      "source": "./plugins/prawo",
+      "description": "Dział prawny. Prompty dla prawników, ze sprawdzaniem źródeł. Pomoc w pracy, nie porada prawna.",
+      "version": "0.1.0",
+      "category": "productivity"
+    },
+    {
+      "name": "metody-pracy",
+      "source": "./plugins/metody-pracy",
+      "description": "Metody pracy zespołu. Prompty dla zespołów i menedżerów pracujących w Agile, Scrum, Kanban, Lean, Waterfall, PRINCE2, SAFe i DevOps.",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "sprzedaz",
+  "version": "0.1.0",
+  "description": "Sprzedaż i obsługa klienta: Prompty dla dyrektora sprzedaży, dyrektora przychodów, handlowców i obsługi klienta. Każdy skill dobiera prompt do zadania, prosi o brakujące dane i kończy kontrolą wyniku.",
+  "author": {
+    "name": "Krzysztof Majchrzycki",
+    "url": "https://majchrzycki.com"
+  },
+  "homepage": "https://majchrzycki.com/blog/filar/ai-w-codziennej-pracy",
+  "repository": "https://github.com/majchrzycki-com/moja-firma-prompty",
+  "license": "MIT",
+  "keywords": [
+    "prompty",
+    "agent-skills",
+    "skill-md",
+    "sprzedaz",
+    "polska"
+  ]
+}

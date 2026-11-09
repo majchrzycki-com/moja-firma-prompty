@@ -1,0 +1,19 @@
+{
+  "name": "metody-pracy",
+  "version": "0.1.0",
+  "description": "Metody pracy zespołu: Prompty dla zespołów i menedżerów pracujących w Agile, Scrum, Kanban, Lean, Waterfall, PRINCE2, SAFe i DevOps. Każdy skill dobiera prompt do zadania, prosi o brakujące dane i kończy kontrolą wyniku.",
+  "author": {
+    "name": "Krzysztof Majchrzycki",
+    "url": "https://majchrzycki.com"
+  },
+  "homepage": "https://majchrzycki.com/blog/filar/ai-w-codziennej-pracy",
+  "repository": "https://github.com/majchrzycki-com/moja-firma-prompty",
+  "license": "MIT",
+  "keywords": [
+    "prompty",
+    "agent-skills",
+    "skill-md",
+    "metody-pracy",
+    "polska"
+  ]
+}
