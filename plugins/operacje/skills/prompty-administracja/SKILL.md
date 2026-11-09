@@ -80,4 +80,4 @@ Cel (jaka praca ma powstać), kontekst (kto użyje wyniku i do jakiej decyzji), 
 - Notatka ze spotkania i obieg faktury
 - Szkic oferty administracyjnej i zapasy materiałów
 - Przewodnik powitalny i odpowiedź na reklamację
-- Organizacja wydarzenia i ankieta o biurze
+- Rozliczenie delegacji

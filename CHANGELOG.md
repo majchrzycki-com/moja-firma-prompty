@@ -10,4 +10,4 @@
 - Paczki dla Anthropic Claude, OpenAI Codex, OpenClaw, Microsoft 365 Copilot, Google Gemini i OpenAI ChatGPT.
 - Jedna licencja MIT dla promptów i kodu.
 - Test wszystkich 51 skilli w Anthropic Claude w dwóch rundach: `TESTY.md`.
-- Po teście: trzy nowe prompty (odpowiedź na zapytanie ofertowe, komunikat o awarii, synteza testu użyteczności) i dwie nowe zasady w każdym SKILL.md.
+- Po teście: siedem nowych promptów (odpowiedź na zapytanie ofertowe, komunikat o awarii, synteza testu użyteczności, komunikacja przy opóźnionym projekcie, przegląd MFA, koszt posiadania systemów, rozliczenie delegacji) i dwie nowe zasady w każdym SKILL.md.

@@ -268,13 +268,13 @@ Narzędzia: Microsoft 365 Copilot Cowork, Anthropic Claude Cowork, tryb agenta O
 
 **Sprawdź:** Zakupy oraz prawnik oceniają; security potwierdza podatność.
 
-### 10. Polityka urządzeń i przegląd kosztów chmury
+### 10. Koszt posiadania dwóch systemów (TCO)
 
-**Wejście:** Obecne zasady i zgłoszone wyjątki; raport kosztów i właściciele zasobów.
+**Wejście:** Oferty dostawców z cenami i warunkami, okres analizy, liczba użytkowników i koszty wewnętrzne, które już znacie.
 
-> Na podstawie [zatwierdzonych plików z datą i wersją] wykonaj kolejno etap 1 — polityka urządzeń: zredaguj zmianę BYOD z granicami dostępu. Etap 2 — przegląd kosztów chmury: wskaż nieprzypisane koszty i możliwe testy optymalizacji. Przygotuj szkic zasad i otwarte pytania oraz tabela koszt, hipoteza, ryzyko. Wynik oddaj do [osoby zatwierdzającej] przed wysyłką lub zmianą danych.
+> Na podstawie [ofert dostawców i założeń z datą i wersją] wykonaj kolejno etap 1: zbuduj tabelę kosztów w okresie [liczba lat] dla obu wariantów: licencje lub subskrypcje, wdrożenie, migracja danych, szkolenia, utrzymanie, infrastruktura i wyjście z umowy. Każdą kwotę oznacz źródłem albo jako brak. Etap 2: policz sumy i pokaż, przy jakiej zmianie ceny lub liczby użytkowników warianty się zrównują. Etap 3: wypisz ryzyka, których nie da się wycenić, i pytania do dostawców. Nie wybieraj systemu i nie uzupełniaj brakujących kwot szacunkami. Wynik oddaj do [osoby podejmującej decyzję zakupową].
 
-**Sprawdź:** Bezpieczeństwo i HR zatwierdzają; finanse potwierdzają faktury.
+**Sprawdź:** Przelicz sumy ręcznie dla jednego roku i sprawdź, czy każda kwota ma źródło w ofercie albo jest oznaczona jako brak.
 
 ## Zasady pracy w tej roli (z wpisu)
 

@@ -1,6 +1,6 @@
 ---
 name: prompty-cio
-description: "Biblioteka 30 promptów dla dyrektora IT (CIO) ze sposobem sprawdzenia wyniku. Dobiera prompt do zadania, prosi o brakujące dane i kończy kontrolą odpowiedzi; decyzję zostawia człowiekowi. Zadania: mapa usług, dług techniczny, priorytet modernizacji, mapa integracji, plan migracji, przegląd dostępu, ryzyko Copilota, scenariusz incydentu, kontrola backupu, ćwiczenie awaryjne, ocena vendora, rejestr podatności, polityka urządzeń, przegląd kosztów chmury, pojemność usługi, jakość zmian, przegląd ticketów, sLA wewnętrzne, komunikat o awarii, plan adopcji, przegląd licencji, rada architektury, plan kwartału IT, mapa usług i dług techniczny, priorytet modernizacji i mapa integracji, plan migracji i przegląd dostępu, ryzyko copilota i scenariusz incydentu, kontrola backupu i ćwiczenie awaryjne, ocena vendora i rejestr podatności, polityka urządzeń i przegląd kosztów chmury. Użyj, gdy dyrektor IT chce wykonać takie zadanie z pomocą AI albo prosi o prompt do swojej pracy."
+description: "Biblioteka 30 promptów dla dyrektora IT (CIO) ze sposobem sprawdzenia wyniku. Dobiera prompt do zadania, prosi o brakujące dane i kończy kontrolą odpowiedzi; decyzję zostawia człowiekowi. Zadania: mapa usług, dług techniczny, priorytet modernizacji, mapa integracji, plan migracji, przegląd dostępu, ryzyko Copilota, scenariusz incydentu, kontrola backupu, ćwiczenie awaryjne, ocena vendora, rejestr podatności, polityka urządzeń, przegląd kosztów chmury, pojemność usługi, jakość zmian, przegląd ticketów, sLA wewnętrzne, komunikat o awarii, plan adopcji, przegląd licencji, rada architektury, plan kwartału IT, mapa usług i dług techniczny, priorytet modernizacji i mapa integracji, plan migracji i przegląd dostępu, ryzyko copilota i scenariusz incydentu, kontrola backupu i ćwiczenie awaryjne, ocena vendora i rejestr podatności, koszt posiadania dwóch systemów (TCO). Użyj, gdy dyrektor IT chce wykonać takie zadanie z pomocą AI albo prosi o prompt do swojej pracy."
 license: MIT
 metadata:
   autor: Krzysztof Majchrzycki
@@ -80,4 +80,4 @@ Cel (jaka praca ma powstać), kontekst (kto użyje wyniku i do jakiej decyzji), 
 - Ryzyko copilota i scenariusz incydentu
 - Kontrola backupu i ćwiczenie awaryjne
 - Ocena vendora i rejestr podatności
-- Polityka urządzeń i przegląd kosztów chmury
+- Koszt posiadania dwóch systemów (TCO)

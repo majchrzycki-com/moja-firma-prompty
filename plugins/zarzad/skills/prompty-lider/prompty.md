@@ -268,13 +268,13 @@ Narzędzia: Microsoft 365 Copilot Cowork, Anthropic Claude Cowork, tryb agenta O
 
 **Sprawdź:** Poszukaj wzajemnie sprzecznych założeń i warunków, których firma nie potrafi monitorować; Sprawdź, czy oszczędność jednego działu nie przenosi pracy do innego miejsca.
 
-### 10. Ekosystem partnerów i kierunek wykorzystania danych
+### 10. Komunikacja z zespołem przy opóźnionym projekcie
 
-**Wejście:** Typy partnerów, ofertę firmy i obecne zasady współpracy; listę decyzji biznesowych i dostępnych źródeł informacji.
+**Wejście:** Aktualny harmonogram i opóźnienie w dniach, znane przyczyny, decyzje już podjęte i to, czego jeszcze nie wiecie.
 
-> Na podstawie [zatwierdzonych plików z datą i wersją] wykonaj kolejno etap 1 — ekosystem partnerów: Porównaj trzy modele współpracy pod względem wartości dla stron, zależności i kontroli jakości. Wskaż konflikt interesów. Etap 2 — kierunek wykorzystania danych: Powiąż źródła z decyzjami i wskaż braki jakości oraz własności. Zaproponuj jeden obszar do uporządkowania. Przygotuj roboczy dokument, listę wyjątków i kryteria odbioru. Wynik oddaj do [osoby zatwierdzającej] przed wysyłką lub zmianą danych.
+> Na podstawie [harmonogramu projektu, notatek ze statusów i listy ryzyk z datą] wykonaj kolejno etap 1: ustal, ile wynosi opóźnienie, co jest jego potwierdzoną przyczyną, a co tylko przypuszczeniem. Etap 2: przygotuj wiadomość do zespołu, która mówi wprost o opóźnieniu, nazywa, czego nie wiemy, i zaprasza do rozmowy o przeszkodach. Nie szukaj winnych, nie groź konsekwencjami i nie obiecuj nowej daty, której nikt nie potwierdził. Etap 3: przygotuj pytania do rozmów indywidualnych i propozycję jednej zmiany w organizacji pracy do decyzji zespołu. Wynik oddaj do [lidera projektu] przed wysyłką.
 
-**Sprawdź:** Potwierdź, że każda strona ma konkretną korzyść oraz wykonalną odpowiedzialność; Właściciel decyzji potwierdza, czy lepsze dane rzeczywiście zmienią jego działanie.
+**Sprawdź:** Sprawdź, czy wiadomość nie wskazuje osób jako winnych i czy każda data ma potwierdzenie w harmonogramie.
 
 ## Zasady pracy w tej roli (z wpisu)
 

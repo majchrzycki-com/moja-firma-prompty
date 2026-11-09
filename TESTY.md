@@ -85,7 +85,7 @@ Test z 9.11.2026, ta sama metoda. Prośby napisaliśmy przed testem. Każda zawi
   - niepotwierdzone cechy produktu i twierdzenia porównawcze trafiają na listę braków, nie do tekstu,
   - skill może zarekomendować odwracalny pierwszy krok, a decyzję zostawia zespołowi.
 - Zmieniliśmy też wybór promptu: gdy pasuje kilka, skill wybiera najlepszy i pracuje dalej, zamiast pytać.
-- **Luki w bibliotekach.** Cztery prośby nie miały pasującego promptu: komunikacja z zespołem przy opóźnionym projekcie (lider), przegląd MFA (administrator IT), porównanie kosztu posiadania systemów (CIO) i rozliczenie delegacji (administracja). Częściowo brakowało też promptów do wniosku grantowego (badania i rozwój), wskaźnika efektywności procesu (lean) i zapisu decyzji architektonicznej (CTO).
+- **Luki w bibliotekach.** Cztery prośby nie miały pasującego promptu: komunikacja z zespołem przy opóźnionym projekcie (lider), przegląd MFA (administrator IT), porównanie kosztu posiadania systemów (CIO) i rozliczenie delegacji (administracja). Wszystkie cztery uzupełniliśmy 9.11.2026. Częściowo brakowało też promptów do wniosku grantowego (badania i rozwój), wskaźnika efektywności procesu (lean) i zapisu decyzji architektonicznej (CTO).
 
 ## Czego nie sprawdzaliśmy
 

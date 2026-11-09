@@ -80,4 +80,4 @@ Cel (jaka praca ma powstać), kontekst (kto użyje wyniku i do jakiej decyzji), 
 - Test odtworzenia kopii i rezerwacje dhcp
 - Pierścienie aktualizacji i alerty sieciowe
 - Przegląd dostępu vpn i konta potencjalnie nieaktywne
-- Diagnostyka dns i prognoza miejsca na dysku
+- Przegląd uwierzytelniania wieloskładnikowego (MFA)

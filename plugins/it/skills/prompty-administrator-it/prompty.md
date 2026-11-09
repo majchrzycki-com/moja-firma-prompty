@@ -268,13 +268,13 @@ Narzędzia: Microsoft 365 Copilot Cowork, Anthropic Claude Cowork, tryb agenta O
 
 **Sprawdź:** Porównaj listę z konfiguracją testową oraz procedurą dostępu awaryjnego; Właściciel potwierdza zasadność wyłączenia każdego konta na podstawie kilku sygnałów.
 
-### 10. Diagnostyka dns i prognoza miejsca na dysku
+### 10. Przegląd uwierzytelniania wieloskładnikowego (MFA)
 
-**Wejście:** Nazwę problemowej usługi, wyniki zapytań i konfigurację resolverów; historię zajętości, przyrost danych i terminy zadań wsadowych.
+**Wejście:** Eksport metod uwierzytelniania użytkowników, lista wyjątków z uzasadnieniem i zgłoszenia użytkowników dotyczące logowania.
 
-> Na podstawie [zatwierdzonych plików z datą i wersją] wykonaj kolejno etap 1 — diagnostyka dns: Ułóż plan porównania odpowiedzi, pamięci podręcznej i delegacji. Wskaż, które wyniki rozstrzygają między błędem klienta a strefy. Etap 2 — prognoza miejsca na dysku: Policz orientacyjny czas do progu na podstawie jawnych założeń. Oddziel stały trend od jednorazowego skoku. Przygotuj roboczy dokument, listę wyjątków i kryteria odbioru. Wynik oddaj do [osoby zatwierdzającej] przed wysyłką lub zmianą danych.
+> Na podstawie [eksportu metod uwierzytelniania i listy wyjątków z datą] wykonaj kolejno etap 1: policz konta bez MFA, konta ze słabą metodą (SMS, połączenie głosowe) i wyjątki bez właściciela lub daty wygaśnięcia. Etap 2: pogrupuj zgłoszenia użytkowników i wskaż, które problemy da się rozwiązać inną metodą zamiast wyłączenia MFA. Etap 3: przygotuj plan zmian w trybie raportowania, z kontami awaryjnymi i komunikatem dla użytkowników. Nie proponuj wyłączenia MFA dla grupy ani wszystkich i nie wykonuj żadnych zmian. Wynik oddaj do [osoby zatwierdzającej zmiany bezpieczeństwa].
 
-**Sprawdź:** Sprawdź odpowiedzi z dwóch segmentów sieci i zapisuj czas wykonania pomiaru; Przelicz wynik w arkuszu i sprawdź, czy retencja może zmienić kierunek trendu.
+**Sprawdź:** Porównaj liczbę kont w podsumowaniu z eksportem i sprawdź, czy każde konto awaryjne ma właściciela i procedurę użycia.
 
 ## Zasady pracy w tej roli (z wpisu)
 

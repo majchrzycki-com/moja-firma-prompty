@@ -268,13 +268,13 @@ Narzędzia: Microsoft 365 Copilot Cowork, Anthropic Claude Cowork, tryb agenta O
 
 **Sprawdź:** Poproś nowego pracownika o wykonanie próbnej ścieżki bez dodatkowego tłumaczenia; Porównaj treść z historią sprawy i polityką odpowiedzi przed wysłaniem do klienta.
 
-### 10. Organizacja wydarzenia i ankieta o biurze
+### 10. Rozliczenie delegacji
 
-**Wejście:** Liczbę uczestników, budżet, miejsce i wymagania dostępności; cel badania i trzy decyzje, które mają wynikać z odpowiedzi.
+**Wejście:** Daty i godziny wyjazdu oraz powrotu, rachunki za noclegi i przejazdy, zapewnione posiłki i firmowe zasady rozliczania podróży.
 
-> Na podstawie [zatwierdzonych plików z datą i wersją] wykonaj kolejno etap 1 — organizacja wydarzenia: Przygotuj harmonogram przygotowań, zależności oraz listę potwierdzeń od dostawców. Wskaż wariant awaryjny pogody i transportu.  Etap 2 — ankieta o biurze: Zaproponuj sześć neutralnych pytań o warunki pracy. Unikaj pytań sugerujących odpowiedź i zbędnych danych identyfikujących. Przygotuj roboczy dokument, listę wyjątków i kryteria odbioru. Wynik oddaj do [osoby zatwierdzającej] przed wysyłką lub zmianą danych.
+> Na podstawie [biletów, rachunków i firmowych zasad rozliczania podróży z datą] wykonaj kolejno etap 1: ustal czas podróży w dobach i godzinach oraz posiłki zapewnione w trakcie wyjazdu. Etap 2: przygotuj zestawienie kosztów: diety, noclegi, przejazdy i inne wydatki, każdą pozycję z numerem dokumentu. Stawki diet i ryczałtów weź z firmowych zasad albo oficjalnego źródła wskazanego przez użytkownika, nie z pamięci. Etap 3: wypisz brakujące dokumenty i pozycje do wyjaśnienia. Wynik oddaj do [osoby zatwierdzającej rozliczenie] przed wypłatą.
 
-**Sprawdź:** Sprawdź terminy anulowania zamówień oraz to, kto podejmuje decyzję o zmianie planu; Przeczytaj pytania z dwiema osobami i sprawdź, czy rozumieją skalę jednakowo.
+**Sprawdź:** Zsumuj pozycje ręcznie i sprawdź, czy stawka diety oraz zasady pomniejszenia za posiłki pochodzą ze wskazanego źródła.
 
 ## Zasady pracy w tej roli (z wpisu)
 

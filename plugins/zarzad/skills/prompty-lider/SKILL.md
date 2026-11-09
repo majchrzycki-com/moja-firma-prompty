@@ -80,4 +80,4 @@ Cel (jaka praca ma powstać), kontekst (kto użyje wyniku i do jakiej decyzji), 
 - Doświadczenie klienta i priorytety środowiskowe
 - Ryzyko strategiczne i kompetencje przyszłości
 - Alternatywne scenariusze i łańcuch wartości
-- Ekosystem partnerów i kierunek wykorzystania danych
+- Komunikacja z zespołem przy opóźnionym projekcie
