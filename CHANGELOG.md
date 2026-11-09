@@ -9,3 +9,4 @@
 - Manifest marketplace dla Anthropic Claude Code: jeden plugin na dział.
 - Paczki dla Anthropic Claude, OpenAI Codex, OpenClaw, Microsoft 365 Copilot, Google Gemini i OpenAI ChatGPT.
 - Jedna licencja MIT dla promptów i kodu.
+- Test dziesięciu skilli, po jednym z działu, w Anthropic Claude: `TESTY.md`.
