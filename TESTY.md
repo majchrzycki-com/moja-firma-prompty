@@ -87,9 +87,16 @@ Test z 9.11.2026, ta sama metoda. Prośby napisaliśmy przed testem. Każda zawi
 - Zmieniliśmy też wybór promptu: gdy pasuje kilka, skill wybiera najlepszy i pracuje dalej, zamiast pytać.
 - **Luki w bibliotekach.** Cztery prośby nie miały pasującego promptu: komunikacja z zespołem przy opóźnionym projekcie (lider), przegląd MFA (administrator IT), porównanie kosztu posiadania systemów (CIO) i rozliczenie delegacji (administracja). Wszystkie cztery uzupełniliśmy 9.11.2026. Częściowo brakowało też promptów do wniosku grantowego (badania i rozwój), wskaźnika efektywności procesu (lean) i zapisu decyzji architektonicznej (CTO).
 
+## Powtórka po poprawkach
+
+Test z 9.11.2026 na dwóch skillach, które w rundzie 2 wypadły częściowo, po dopisaniu nowych zasad.
+
+- `prompty-kanban`: **zaliczone.** Wybrał prompt „Zator”, alternatywę wymienił w jednym zdaniu. Wprost zarekomendował odwracalny krok: wstrzymać wciąganie nowych kart i kończyć rozpoczęte. Limitu WIP nie wymyślił.
+- `prompty-e-commerce`: **zaliczone z uwagą.** Do opisu nie dopisał żadnej cechy spoza prośby. Mycie w zmywarce i mikrofalę zostawił, bo podał je użytkownik, ale w kontroli zaznaczył, że przed publikacją trzeba je potwierdzić w dokumentach producenta, a bez potwierdzenia usunąć. Uznajemy to za poprawne: właściciel produktu może znać jego cechy, a publikacja i tak wymaga potwierdzenia.
+
 ## Czego nie sprawdzaliśmy
 
-- Zachowania skilli po dopisaniu zasad z rundy 2. Zasady są ogólne, ale nie powtórzyliśmy testu.
+- Pozostałych 49 skilli po dopisaniu zasad z rundy 2. Powtórka objęła tylko dwa skille.
 - Microsoft 365 Copilot, OpenAI ChatGPT, Google Gemini i OpenClaw.
 - Promptów z grupy „Aplikacje Microsoft 365” na prawdziwych plikach.
 - Pracy na prawdziwych danych firmy.
