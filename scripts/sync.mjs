@@ -158,7 +158,7 @@ function skillDescription(s, prompts) {
 const yamlStr = (s) => `"${s.replace(/\\/g, "\\\\").replace(/"/g, '\\"')}"`;
 
 function skillMd(s, post, prompts) {
-  const url = `${SITE}/blog/${s.slug}`;
+  const url = `${SITE}/blog/${encodeURI(s.slug)}`;
   const byTool = Object.keys(NARZEDZIA)
     .map((t) => {
       const list = prompts.filter((p) => p.narzedzie === t);
@@ -220,7 +220,7 @@ ${byTool}
 }
 
 function promptyMd(s, post, prompts, sections) {
-  const url = `${SITE}/blog/${s.slug}`;
+  const url = `${SITE}/blog/${encodeURI(s.slug)}`;
   const out = [
     `# Biblioteka promptów: ${s.kto}`,
     "",
@@ -299,7 +299,7 @@ for (const d of DZIALY) {
     await writeFile(join(dir, "SKILL.md"), skillMd(s, post, prompts), "utf8");
     await writeFile(join(dir, "prompty.md"), promptyMd(s, post, prompts, sections), "utf8");
     for (const p of prompts)
-      csv.push([d.id, s.kto, s.skill, NARZEDZIA[p.narzedzie].nazwa, p.nr, p.tytul, p.kontekst, p.prompt, p.sprawdz, `${SITE}/blog/${s.slug}`].map(csvCell).join(","));
+      csv.push([d.id, s.kto, s.skill, NARZEDZIA[p.narzedzie].nazwa, p.nr, p.tytul, p.kontekst, p.prompt, p.sprawdz, `${SITE}/blog/${encodeURI(s.slug)}`].map(csvCell).join(","));
     summary.push({ dzial: d.id, skill: s.skill, prompts: prompts.length, sections: sections.length });
   }
 }
@@ -346,7 +346,7 @@ if (errors.length) process.exit(1);
       rows.push(`| **${d.nazwa}** | | | \`/plugin install ${d.id}@moja-firma-prompty\` |`);
       for (const s of STANOWISKA.filter((x) => x.dzial === d.id)) {
         const n = summary.find((x) => x.skill === s.skill)?.prompts ?? 0;
-        rows.push(`| ${s.kto} | [\`${s.skill}\`](plugins/${d.id}/skills/${s.skill}/prompty.md) | ${n} | [wpis](${SITE}/blog/${s.slug}?${utm(s.skill)}) |`);
+        rows.push(`| ${s.kto} | [\`${s.skill}\`](plugins/${d.id}/skills/${s.skill}/prompty.md) | ${n} | [wpis](${SITE}/blog/${encodeURI(s.slug)}?${utm(s.skill)}) |`);
       }
     }
     const table = ["| Stanowisko | Skill | Promptów | Źródło |", "|---|---|---:|---|", ...rows].join("\n");

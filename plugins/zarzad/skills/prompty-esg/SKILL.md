@@ -4,14 +4,14 @@ description: "Biblioteka 30 promptów dla dyrektora zrównoważonego rozwoju (ES
 license: MIT
 metadata:
   autor: Krzysztof Majchrzycki
-  zrodlo: https://majchrzycki.com/blog/zarzadzanie-z-microsoft-copilot-praktyczne-prompty-dla-dyrektora-zrównoważonego-rozwoju-esg
+  zrodlo: https://majchrzycki.com/blog/zarzadzanie-z-microsoft-copilot-praktyczne-prompty-dla-dyrektora-zr%C3%B3wnowa%C5%BConego-rozwoju-esg
   wersja: 0.1.0
   dzial: zarzad
 ---
 
 # Prompty: Dyrektor zrównoważonego rozwoju (ESG)
 
-Biblioteka promptów dla dyrektora zrównoważonego rozwoju (ESG) z wpisu [„Microsoft Copilot dla dyrektora ESG: 30 promptów”](https://majchrzycki.com/blog/zarzadzanie-z-microsoft-copilot-praktyczne-prompty-dla-dyrektora-zrównoważonego-rozwoju-esg?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-esg). Pełne treści promptów, sposób sprawdzenia wyniku i zasady dla tej roli są w pliku `prompty.md` obok tego pliku.
+Biblioteka promptów dla dyrektora zrównoważonego rozwoju (ESG) z wpisu [„Microsoft Copilot dla dyrektora ESG: 30 promptów”](https://majchrzycki.com/blog/zarzadzanie-z-microsoft-copilot-praktyczne-prompty-dla-dyrektora-zr%C3%B3wnowa%C5%BConego-rozwoju-esg?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-esg). Pełne treści promptów, sposób sprawdzenia wyniku i zasady dla tej roli są w pliku `prompty.md` obok tego pliku.
 
 Prompt przygotowuje materiał do decyzji. Decyzję podejmuje i podpisuje człowiek.
 

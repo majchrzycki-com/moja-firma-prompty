@@ -4,14 +4,14 @@ description: "Biblioteka 30 promptów dla dyrektora obsługi klienta ze sposobem
 license: MIT
 metadata:
   autor: Krzysztof Majchrzycki
-  zrodlo: https://majchrzycki.com/blog/zarzadzanie-z-microsoft-copilot-praktyczne-prompty-dla-dyrektora-obsługi-klienta-customer-service-director
+  zrodlo: https://majchrzycki.com/blog/zarzadzanie-z-microsoft-copilot-praktyczne-prompty-dla-dyrektora-obs%C5%82ugi-klienta-customer-service-director
   wersja: 0.1.0
   dzial: sprzedaz
 ---
 
 # Prompty: Dyrektor obsługi klienta
 
-Biblioteka promptów dla dyrektora obsługi klienta z wpisu [„Microsoft Copilot: 30 promptów dla obsługi”](https://majchrzycki.com/blog/zarzadzanie-z-microsoft-copilot-praktyczne-prompty-dla-dyrektora-obsługi-klienta-customer-service-director?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-dyrektor-obslugi-klienta). Pełne treści promptów, sposób sprawdzenia wyniku i zasady dla tej roli są w pliku `prompty.md` obok tego pliku.
+Biblioteka promptów dla dyrektora obsługi klienta z wpisu [„Microsoft Copilot: 30 promptów dla obsługi”](https://majchrzycki.com/blog/zarzadzanie-z-microsoft-copilot-praktyczne-prompty-dla-dyrektora-obs%C5%82ugi-klienta-customer-service-director?utm_source=github&utm_medium=referral&utm_campaign=moja-firma-prompty&utm_content=prompty-dyrektor-obslugi-klienta). Pełne treści promptów, sposób sprawdzenia wyniku i zasady dla tej roli są w pliku `prompty.md` obok tego pliku.
 
 Prompt przygotowuje materiał do decyzji. Decyzję podejmuje i podpisuje człowiek.
 

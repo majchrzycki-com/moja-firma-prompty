@@ -1,6 +1,6 @@
 # Zmiany
 
-## 0.1.0 — w przygotowaniu
+## 0.1.0 (11.11.2026)
 
 - 51 skilli stanowisk w 10 działach, 1500 promptów z serii wpisów na majchrzycki.com.
 - Każdy skill: `SKILL.md` (dobór promptu, brakujące dane, kontrola wyniku, granice) i `prompty.md` (pełna biblioteka ze sposobem sprawdzenia i zasadami dla roli).
